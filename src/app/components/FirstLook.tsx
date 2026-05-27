@@ -1,0 +1,58 @@
+import { PhotoGallery } from './PhotoGallery'
+
+export function FirstLook() {
+  const photos = [
+    {
+      url: 'https://images.unsplash.com/photo-1517456363055-5d162a453d6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      alt: 'Emotional first embrace',
+    },
+    {
+      url: 'https://images.unsplash.com/photo-1484849559669-ceae3b12a437?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      alt: 'First look moment',
+    },
+    {
+      url: 'https://images.unsplash.com/photo-1755810504990-005f22a58f43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      alt: 'Couple in dramatic archway',
+    },
+    {
+      url: 'https://images.unsplash.com/photo-1779055660386-c3ff4d90cfcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      alt: 'Emotional father-daughter moment',
+    },
+    {
+      url: 'https://images.unsplash.com/photo-1685524480899-7096f34cf638?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      alt: 'First look in front of house',
+    },
+    {
+      url: 'https://images.unsplash.com/photo-1588260436171-5703b8d6e835?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      alt: 'Dramatic first look reveal',
+    },
+    {
+      url: 'https://images.unsplash.com/photo-1568759516444-8395c289e031?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      alt: 'Emotional black and white moment',
+    },
+    {
+      url: 'https://images.unsplash.com/photo-1683539172324-66058836064f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      alt: 'Bride and groom first look',
+    },
+    {
+      url: 'https://images.unsplash.com/photo-1704584592536-ac0fd1101875?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      alt: 'Tender first look moment',
+    },
+    {
+      url: 'https://images.unsplash.com/photo-1706876998330-950fd7d6ffdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://images.unsplash.com/photo-1685524480909-78aa53966145?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      alt: 'First look in blue suit',
+    },
+  ]
+
+  return (
+    <PhotoGallery
+      photos={photos}
+      title="First Look"
+      description="The emotional moment when we first saw each other"
+    />
+  )
+}
