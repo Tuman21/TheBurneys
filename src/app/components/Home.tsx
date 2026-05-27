@@ -33,7 +33,7 @@ export function Home() {
     <div className="relative flex min-h-screen items-center justify-center overflow-hidden">
       <div className="absolute inset-0">
         <img
-          src="https://images.unsplash.com/photo-1596457221755-b96bc3a6df18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1920"
+          src="https://drive.google.com/file/d/1QWzmbiiF5rhYBSznN84wFzcknJuo1S96/view?usp=sharing"
           alt="The Burney's Wedding"
           className="h-full w-full object-cover"
         />
