@@ -3,11 +3,11 @@ import { PhotoGallery } from './PhotoGallery'
 export function Gallery() {
   const photos = [
     {
-      url: 'https://images.unsplash.com/photo-1596457221755-b96bc3a6df18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/o7fqXLx.jpeg',
       alt: 'Couple kissing in elegant wedding attire',
     },
     {
-      url: 'https://images.unsplash.com/photo-1591604442449-ecc9943efabf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/Pe9Y2mU.jpeg',
       alt: 'Bride holding beautiful bouquet',
     },
     {

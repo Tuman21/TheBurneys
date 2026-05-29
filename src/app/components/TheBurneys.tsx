@@ -3,7 +3,7 @@ import { PhotoGallery } from './PhotoGallery'
 export function TheBurneys() {
   const photos = [
     {
-      url: 'https://images.unsplash.com/photo-1776266100990-8e18cffe2f9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/Pe9Y2mU.jpeg',
       alt: 'Couple embracing at sunset',
     },
     {
@@ -23,7 +23,7 @@ export function TheBurneys() {
       alt: 'Tender moment together',
     },
     {
-      url: 'https://images.unsplash.com/photo-1772412930813-240058af1107?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/o7fqXLx.jpeg',
       alt: 'Couple sharing intimate moment',
     },
     {
