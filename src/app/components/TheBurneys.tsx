@@ -70,6 +70,82 @@ export function TheBurneys() {
       url: 'https://i.imgur.com/l6Ytwtf.jpeg',
       alt: 'Embracing and looking at each other',
     },
+    {
+      url: 'https://i.imgur.com/64TM8aQ.jpeg',
+      alt: 'holding'
+    },
+    {
+      url: 'https://i.imgur.com/V7LEoA6.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/6K3cp5y.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/ujZXcLD.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/earisOH.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/2eQ5jct.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/w9VJyF3.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/Op1ZZmB.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/tDW2pvT.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/3XjR2m9.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/DSdtj0m.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/91HaDlH.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/0UkH5Ut.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/SuXuTYB.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/VhlgqRE.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/VKHDixd.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/EYhgMKy.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/qiJEEN4.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
     
   ]
 
