@@ -351,67 +351,103 @@ export function Gallery() {
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/jaAm9Hf.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/nx4e58L.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/voE9t8M.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/cvyU3qP.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/jzy3Q2q.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/yGgggWx.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/tBQYDAN.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/aWXGY7W.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/ds3Ilfa.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/1NDmbUa.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/keHPMbp.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/S6cLAAT.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/JgWPVrp.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/U1SD3qh.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/sGgmOsS.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/GemfdjB.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/OteMcXD.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/bCM5Oby.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/hwRKCwC.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/MLK81hE.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/Qz5iRZO.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/N0gc2kh.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/fBbHGC9.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/P8qbp9z.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/CbWJ3Yv.jpeg',
       alt: 'hands'
     },
     {

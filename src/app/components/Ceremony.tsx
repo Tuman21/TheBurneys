@@ -123,6 +123,62 @@ export function Ceremony() {
       alt: 'hands'
     },
     {
+      url: 'https://i.imgur.com/1NDmbUa.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/sGgmOsS.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/bCM5Oby.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/fBbHGC9.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/CbWJ3Yv.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
       url: '',
       alt: 'hands'
     },

@@ -39,39 +39,83 @@ export function FamilyAndFriends() {
       alt: 'Beach ceremony gathering',
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/jaAm9Hf.jpeg',
       alt: 'Ceremony kiss with guests',
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/nx4e58L.jpeg',
       alt: 'Walking down the aisle',
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/voE9t8M.jpeg',
       alt: 'Lakeside ceremony with guests',
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/cvyU3qP.jpeg',
       alt: 'Petal celebration',
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/jzy3Q2q.jpeg',
       alt: 'Bride with family',
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/yGgggWx.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/tBQYDAN.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/aWXGY7W.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/ds3Ilfa.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/keHPMbp.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/S6cLAAT.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/JgWPVrp.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/U1SD3qh.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/GemfdjB.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/OteMcXD.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/hwRKCwC.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/MLK81hE.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/Qz5iRZO.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/N0gc2kh.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/P8qbp9z.jpeg',
       alt: 'hands'
     },
     {
