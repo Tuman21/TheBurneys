@@ -50,6 +50,94 @@ export function Ceremony() {
       url: 'https://i.imgur.com/TVsfjLR.jpeg',
       alt: 'Outdoor ceremony with white chairs',
     },
+    {
+      url: 'https://i.imgur.com/3syiA21.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/A5HNWsC.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/51jiDgI.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/N0T96cH.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/GvjC6LF.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/Ay6i3aW.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/PB14yta.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/ppW3kqV.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/r96FhFp.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/ZLOIj8s.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/qlxeEWT.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/gqhCQiF.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/ZOEKIxT.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/06JRHu5.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/wc8Dt65.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/ZXhGgbz.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/fq4UEs6.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/aV2oh14.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
   ]
 
   return (

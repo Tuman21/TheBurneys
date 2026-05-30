@@ -143,6 +143,66 @@ export function TheBurneys() {
       alt: 'hands'
     },
     {
+      url: 'https://i.imgur.com/HUYi5gM.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/rKXIw0H.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/3Ymb6w4.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/vDb7qLT.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/b104LO4.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/AdjE6Gd.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/XiJ7vuo.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/J8pAA37.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
+      url: '',
+      alt: 'hands'
+    },
+    {
       url: '',
       alt: 'hands'
     },

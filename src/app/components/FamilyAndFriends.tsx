@@ -3,15 +3,15 @@ import { PhotoGallery } from './PhotoGallery'
 export function FamilyAndFriends() {
   const photos = [
     {
-      url: 'https://images.unsplash.com/photo-1527529482837-4698179dc6ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/olJ27tI.jpeg',
       alt: 'Celebratory toast with loved ones',
     },
     {
-      url: 'https://images.unsplash.com/photo-1612599542558-f3022089fb38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/Y7beWxH.jpeg',
       alt: 'Guests celebrating together',
     },
     {
-      url: 'https://images.unsplash.com/photo-1482575832494-771f74bf6857?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
+      url: 'https://i.imgur.com/S4Y27OA.jpeg',
       alt: 'Dancing and celebration',
     },
     {
