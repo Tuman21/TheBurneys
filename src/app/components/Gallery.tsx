@@ -487,36 +487,364 @@ export function Gallery() {
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/Kv6BwoA.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/pq3N28U.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/P8UrtHf.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/BCMujAv.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/oNEztk7.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/8EWSysQ.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/mchPMLH.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/hqLXxKO.jpeg',
       alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/4H0NtRA.jpeg',
+      alt: 'Bride and groom first look',
+    },
+    {
+      url: 'https://i.imgur.com/12NTkxK.jpeg',
+      alt: 'Tender first look moment',
+    },
+    {
+      url: 'https://i.imgur.com/4g0QxfS.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/zXFBIum.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/vWwVxIc.jpeg',
+      alt: 'Bride and groom first look',
+    },
+    {
+      url: 'https://i.imgur.com/20Xu0pk.jpeg',
+      alt: 'Tender first look moment',
+    },
+    {
+      url: 'https://i.imgur.com/450kwcS.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/0KWIvgd.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/qIAKu0R.jpeg',
+      alt: 'Bride and groom first look',
+    },
+    {
+      url: 'https://i.imgur.com/BoF3Meg.jpeg',
+      alt: 'Tender first look moment',
+    },
+    {
+      url: 'https://i.imgur.com/HfjhyZh.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/hl6Vaz0.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/9HdfVo4.jpeg',
+      alt: 'Bride and groom first look',
+    },
+    {
+      url: 'https://i.imgur.com/Ok9NHWy.jpeg',
+      alt: 'Tender first look moment',
+    },
+    {
+      url: 'https://i.imgur.com/r5dMbpf.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/kFDitFa.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/AbCem3b.jpeg',
+      alt: 'Bride and groom first look',
+    },
+    {
+      url: 'https://i.imgur.com/NTENe9o.jpeg',
+      alt: 'Tender first look moment',
+    },
+    {
+      url: 'https://i.imgur.com/WH4O1Ui.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/32589Mi.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/F6ZbkNU.jpeg',
+      alt: 'Tender first look moment',
+    },
+    {
+      url: 'https://i.imgur.com/bK4THfL.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/BEZSown.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/pxZr86V.jpeg',
+      alt: 'Tender first look moment',
+    },
+    {
+      url: 'https://i.imgur.com/XM8EsVS.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/IG4U4Ev.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/rwTSSZw.jpeg',
+      alt: 'Tender first look moment',
+    },
+    {
+      url: 'https://i.imgur.com/yUQEpO4.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/S8sy7pK.jpeg ',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/gvXQZ15.jpeg',
+      alt: 'Tender first look moment',
+    },
+    {
+      url: 'https://i.imgur.com/Fo971Jf.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/U58WTXT.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/iOf93nc.jpeg',
+      alt: 'Tender first look moment',
+    },
+    {
+      url: 'https://i.imgur.com/ORJpolT.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/GXcNRZT.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/yemKYlf.jpeg',
+      alt: 'Tender first look moment',
+    },
+    {
+      url: 'https://i.imgur.com/uAzrt5X.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/Wy0xMQI.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/vMlO4vp.jpeg',
+      alt: 'Tender first look moment',
+    },
+    {
+      url: 'https://i.imgur.com/L6ahwW3.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/3ROh731.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/suNsc05.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/1TUC9Tu.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/OhgPSFG.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/CLBXMDo.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/YvmWaLI.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/IBGNXIS.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/tqt6pEU.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/CLfzS6t.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/IcZsBMx.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/AlsFcHw.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/XT57u0F.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/6hbPHab.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/pT0aF12.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/4x0RQ4f.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/DOUT2gm.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/o1AzWWa.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/6sXy6cg.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/y5FCteh.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/3oXL0c6.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/pKEuGTI.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/kwgDifk.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/fnWKhIY.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/xIGCm0L.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/27ZVD3G.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/t7Fojee.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/7OBOkcn.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/72AYTpI.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/u7OWjMt.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/pd53WZl.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/rGwzMOt.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/mLHoKCc.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/wMX06Ck.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/33fkFFf.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/I9H693a.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: 'https://i.imgur.com/Moh5JQt.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/FhQEpqs.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/F9nCjmm.jpeg',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: '',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: '',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: '',
+      alt: 'Emotional reveal moment',
+    },
+    {
+      url: '',
+      alt: 'First look in blue suit',
     },
 
 
