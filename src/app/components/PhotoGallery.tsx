@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Masonry from 'react-responsive-masonry'
-import { Download } from 'lucide-react'
+{/*import { Download } from 'lucide-react'*/}
 import { Lightbox } from './Lightbox'
 import { downloadPhoto } from '../utils/downloadPhoto'
 
@@ -56,7 +56,7 @@ function PhotoTile({
         aria-label={`Download ${photo.alt}`}
         title="Download photo"
       >
-        <Download size={14} strokeWidth={2} />
+        {/*<Download size={14} strokeWidth={2} />*/}
       </button>
     </div>
   )
