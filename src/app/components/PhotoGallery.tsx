@@ -49,7 +49,7 @@ function PhotoTile({
         />
       </button>
 
-      <button
+      {/*<button
         type="button"
         onClick={handleDownload}
         className="absolute right-2 bottom-2 rounded-full bg-black/35 p-1.5 text-white/80 opacity-0 backdrop-blur-sm transition-all duration-200 group-hover:opacity-100 hover:bg-black/50 hover:text-white focus-visible:opacity-100 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/60 md:opacity-0 max-md:opacity-40"
@@ -57,7 +57,7 @@ function PhotoTile({
         title="Download photo"
       >
         <Download size={14} strokeWidth={2} />
-      </button>
+      </button>*/}
     </div>
   )
 }
@@ -129,13 +129,13 @@ export function PhotoGallery({ photos, title, description }: PhotoGalleryProps) 
         </div>
 
         <div className="mt-16 text-center">
-          <button
+          {/*<button
             type="button"
             onClick={() => void downloadAllPhotos(photos, title)}
             className="rounded-full bg-[#823327] px-8 py-4 text-lg font-medium text-white shadow-lg transition-colors duration-300 hover:bg-[#084d66] hover:shadow-xl"
           >
             Download All Photos
-          </button>
+          </button>*/}
         </div>
       </div>
 

@@ -89,7 +89,7 @@ export function Lightbox({
         <X size={22} />
       </button>
 
-      <button
+      {/*<button
         type="button"
         onClick={(event) => {
           event.stopPropagation()
@@ -99,7 +99,7 @@ export function Lightbox({
         aria-label="Download"
       >
         <Download size={22} />
-      </button>
+      </button>*/}
 
       <div className="absolute top-4 left-4 z-50 rounded-full bg-black/30 px-4 py-2 text-lg font-medium text-white">
         {currentIndex + 1} / {photos.length}
