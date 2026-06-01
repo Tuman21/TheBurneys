@@ -10,7 +10,7 @@ export function Home() {
     },
     {
       to: '/the-burneys',
-      label: "The Burney's",
+      label: "The Burneys'",
       description: 'Our intimate moments',
     },
     {
