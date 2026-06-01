@@ -3,6 +3,10 @@ import { PhotoGallery } from './PhotoGallery'
 export function TheBurneys() {
   const photos = [
     {
+      url: 'https://i.imgur.com/13okFQV.jpeg',
+      alt: 'hands'
+    },
+    {
       url: 'https://i.imgur.com/Pe9Y2mU.jpeg',
       alt: 'Couple embracing at sunset',
     },
@@ -175,38 +179,121 @@ export function TheBurneys() {
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/ZFjkEbL.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/Y8RYP5x.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/1TTnrAD.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/DGYWkZV.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/sKvs9eG.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/I3YJBU2.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/3beCgvT.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/Xbbgvjk.jpeg',
       alt: 'hands'
     },
-    
+    {
+      url: 'https://i.imgur.com/F81UCeH.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/KjtbbiA.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/JwpDLNU.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/NPyz12P.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/l2WXWxx.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/BovtUjC.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/t1d8G0K.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/4hHSybn.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/7gAqCzm.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/75vqmh1.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/WsBjKou.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/jzRkaiJ.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/CgeGzHS.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/siMFTdq.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/VWvaKuX.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/nbkd3mM.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/vJJyE1s.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/kvM87IB.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/sadwRlS.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/iF9lq7c.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/UWfr7gV.jpeg',
+      alt: 'hands'
+    },
   ]
 
   return (

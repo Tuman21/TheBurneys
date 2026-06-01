@@ -204,31 +204,8 @@ export function FirstLook() {
       alt: 'First look in blue suit',
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/W3ZriN5.jpeg',
       alt: 'Emotional reveal moment',
-    },
-    {
-      url: '',
-      alt: 'First look in blue suit',
-    },{
-      url: '',
-      alt: 'Emotional reveal moment',
-    },
-    {
-      url: '',
-      alt: 'First look in blue suit',
-    },
-    {
-      url: '',
-      alt: 'First look in blue suit',
-    },
-    {
-      url: '',
-      alt: 'Emotional reveal moment',
-    },
-    {
-      url: '',
-      alt: 'First look in blue suit',
     },
 
   ]

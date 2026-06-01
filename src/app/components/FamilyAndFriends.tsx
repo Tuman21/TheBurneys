@@ -187,69 +187,102 @@ export function FamilyAndFriends() {
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/bYynyrP.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/zKu4tDb.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/MxFOwJZ.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/JdFou1h.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/V76G1G6.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/AkQPrzF.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/igdAAXe.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/El2BkeR.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/2u36Nhy.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/IkDIOSo.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/PBN4a4D.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/lB4JTmi.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/SSaiBvT.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/FT2ff61.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/girsKFY.jpeg',
       alt: 'hands'
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/cQFgmhY.jpeg',
       alt: 'hands'
     },
+    {
+      url: 'https://i.imgur.com/tnoVCFq.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/CcOwPy2.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/QlXmffm.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/oBG9PF3.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/h7YJPWt.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/Z3aNzgn.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/tjkL57t.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/13U2hrg.jpeg',
+      alt: 'First look in blue suit',
+    },
+    
   ]
 
   return (

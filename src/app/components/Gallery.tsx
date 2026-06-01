@@ -831,21 +831,430 @@ export function Gallery() {
       alt: 'Emotional reveal moment',
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/bYynyrP.jpeg',
       alt: 'First look in blue suit',
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/zKu4tDb.jpeg',
       alt: 'First look in blue suit',
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/7CZC1XI.jpeg',
       alt: 'Emotional reveal moment',
     },
     {
-      url: '',
+      url: 'https://i.imgur.com/MxFOwJZ.jpeg',
       alt: 'First look in blue suit',
     },
+    {
+      url: 'https://i.imgur.com/JdFou1h.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/V76G1G6.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/AkQPrzF.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/eqg9Pe3.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/YmWRcf0.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/W3ZriN5.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/4YJQec5.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/NpPmWSl.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/xCwWxzh.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/LqboDWy.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/OoC0McN.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/K9934uI.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/igdAAXe.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/El2BkeR.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/2u36Nhy.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/IkDIOSo.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/VYURvRd.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/PBN4a4D.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/lB4JTmi.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/SSaiBvT.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/FT2ff61.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/VHY5cOk.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/girsKFY.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/cQFgmhY.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/E3lV6aT.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/fpLl37b.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/tnoVCFq.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/CcOwPy2.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/QlXmffm.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/oBG9PF3.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/wU7CDOD.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/duJoH8w.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/5coOzN3.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/h7YJPWt.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/Z3aNzgn.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/sEmXm2B.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/tjkL57t.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/13U2hrg.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/8bzlHEa.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/iTtGJyn.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/3jB1SzP.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/YYRAPrF.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/Wq55AC9.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/1RqUFMI.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/11NqtWT.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/QGzD3Ai.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/sz8Np96.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/ymF79r3.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/yFjfTvn.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/IO1XDFv.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/mNd4usz.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/sggbRui.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/jW0D6WX.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/iRJFBVM.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/yG6Qiv6.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/0UySRDs.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/jYw9KOU.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/AouKVyy.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/QTXuj8G.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/ThCApUh.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/YLcEgp1.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/0YjSvzN.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/geFuFHM.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/g7NdWRi.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/M6ZazhV.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/4X7Dnc6.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/uU3T6KM.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/KBGFte6.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/dnhTgEj.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/DkwSugu.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/DtReKig.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/ZFjkEbL.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/Y8RYP5x.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/1TTnrAD.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/DGYWkZV.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/sKvs9eG.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/I3YJBU2.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/3beCgvT.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/DpXSQYf.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/Xbbgvjk.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/F81UCeH.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/KjtbbiA.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/JwpDLNU.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/NPyz12P.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/l2WXWxx.jpeg',
+      alt: 'First look in blue suit',
+    },
+    {
+      url: 'https://i.imgur.com/BovtUjC.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/t1d8G0K.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/4hHSybn.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/13okFQV.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/7gAqCzm.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/75vqmh1.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/WsBjKou.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/jzRkaiJ.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/CgeGzHS.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/siMFTdq.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/VWvaKuX.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/nbkd3mM.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/vJJyE1s.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/kvM87IB.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/sadwRlS.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/iF9lq7c.jpeg',
+      alt: 'hands'
+    },
+    {
+      url: 'https://i.imgur.com/UWfr7gV.jpeg',
+      alt: 'hands'
+    },
+    
 
 
   ]
